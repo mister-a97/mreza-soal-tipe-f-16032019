@@ -7,4 +7,4 @@ Software yang saya gunakan untuk mengerjakan soal adalah
   - XAMPP v3.2.2
   - Sublime Text 3.1.1
   
-Untuk memulai konfigurasi harap buka folder sensus_penduduk_2019, lalu buka folder db
+Untuk memulai konfigurasi harap buka folder 'sensus_penduduk_2019', lalu buka folder 'db'
