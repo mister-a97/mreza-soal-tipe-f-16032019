@@ -9,11 +9,15 @@ Software yang saya gunakan untuk mengerjakan soal adalah
   
 Download Software XAMPP, instal XAMPP.
 
-Setelah diinstal, taruh file 'sensus_penduduk_2019' yg ada digithub di xampp/htdocs/
+Setelah diinstal, 
 
-Untuk memulai konfigurasi harap buka folder 'sensus_penduduk_2019', lalu buka folder 'db'
+Buat folder 'sensus_penduduk_2019' di xampp/htdocs/
 
-Buka file config.php untuk mengganti $servername, $username, $password yang digunakkan untuk mengakses database (localhost/phpmyadmin)
+Taruh semua folder dan file 'sensus_penduduk_2019' yang ada digithub yg isinya css, db, includes, js, users, index.php dan register.php kedalama folder folder 'sensus_penduduk_2019' yang berada di xampp/htdocs/
+
+Untuk memulai konfigurasi buka folder 'sensus_penduduk_2019', lalu buka folder 'db'
+
+Buka file 'config.php' untuk mengganti $servername, $username, $password yang digunakkan untuk mengakses database (localhost/phpmyadmin)
 
 Buat database dengan nama 'mreza_sensus_penduduk_16032019', lalu impor 'mreza_sensus_penduduk_16032019.sql' kedalam database yang dibuat di phpmyadmin.
 
