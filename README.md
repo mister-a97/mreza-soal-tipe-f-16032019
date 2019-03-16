@@ -13,12 +13,15 @@ Setelah diinstal, taruh file 'sensus_penduduk_2019' yg ada digithub di xampp/htd
 
 Untuk memulai konfigurasi harap buka folder 'sensus_penduduk_2019', lalu buka folder 'db'
 
-Buka file config.php untuk mengganti $servername, $username, $password yang digunakkan untuk mengakses localhost/phpmyadmin
+Buka file config.php untuk mengganti $servername, $username, $password yang digunakkan untuk mengakses database (localhost/phpmyadmin)
 
 Buat database dengan nama 'mreza_sensus_penduduk_16032019', lalu impor 'mreza_sensus_penduduk_16032019.sql' kedalam database yang dibuat di phpmyadmin.
 
 Ketika sudah diimpor, maka langsung buka filenya lewat localhost/sensus_penduduk_2019/index.php.
-Maka akan muncul form login.
+Maka akan muncul form login. 
+Sebelumnya buka localhost/sensus_penduduk_2019/register.php untuk menambahkan email dan password yang baru.
+
+Setelah register, maka buka localhost/sensus_penduduk_2019/index.php, lalu masukkan email dan password yang baru ditambahkan untuk login ke halaman user.
 
 Terima Kasih
 
