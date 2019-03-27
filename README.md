@@ -1,13 +1,4 @@
 # mreza-sensus-penduduk-16032019
-
-Soal Tipe F 
-
-Tes Online Bootcamp Arkademy mengenai pembuatan aplikasi sensus penduduk berserta databasenya.
-
-Software yang saya gunakan untuk mengerjakan soal adalah 
-  - XAMPP v3.2.2
-  - Sublime Text 3.1.1
-  
 Download Software XAMPP, instal XAMPP.
 
 Setelah diinstal, 
